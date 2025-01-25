@@ -1,0 +1,150 @@
+
+.links {
+    margin-left: 30%;
+  }
+  .link {
+    margin-left: 10px;
+    margin-right: 10px;
+    width: 90px;
+  }
+  .container {
+    margin-top: 15px;
+  }
+  .navbar-brand {
+    margin-left: -50px;
+  }
+  .btn {
+    width: 170px;
+    background-color: #4caf4f !important;
+    color: white !important;
+    border: none;
+  }
+ h2.rill{
+color: #4CAF4F ;
+   margin-left: 180px;
+   font-size: 50px;
+   font-family: Arial, Helvetica, sans-serif;
+}
+.main{
+    width: 50%;
+    border: 1px solid;
+    border: none;
+}
+.solid{
+width: 900px;
+    margin-left: 180px;
+    font-size: 15.11px;
+}
+#bilt{
+    margin-top: 160px;
+    margin-left: 180px;
+    font-size: 50px;
+}
+.solid{
+    width: 600px;
+}
+.fint{
+    margin-left: 180px;
+    background-color: #4CAF4F;
+    color: aliceblue;
+    border-color: yellow;
+    height: 40px;
+    width: 80px;
+    border-radius: 5px;
+}
+.main{
+    display: flex;
+}
+#jon{
+    margin-top: 100px;
+    height: 500px;
+    margin-left: 70px;
+}
+@media  only screen and (max-width:900px) {
+    #bilt{
+        margin-top: 160px;
+        margin-left: 100px;
+        font-size: 50px;
+    }
+    .main{
+        width: 50%;
+        border: 1px solid;
+        border: none;
+        display: block;
+    }
+    .solid{
+        width: 400px;
+            margin-left: 100px;
+            font-size: 15.11px;
+        }
+        h2.rill{
+            color: #4CAF4F ;
+               margin-left: 100px;
+               font-size: 50px;
+               font-family: Arial, Helvetica, sans-serif;
+            }
+            .fint{
+                margin-left: 100px;
+                background-color: #4CAF4F;
+                color: aliceblue;
+                border-color: yellow;
+                height: 40px;
+                width: 80px;
+                border-radius: 5px;
+            }
+            #jon{
+                margin-top: 100px;
+                height: 500px;
+                margin-left: 70px;
+                width: 300px;
+            }
+}
+.second{
+  text-align: center;
+  margin-top: 10px;
+}
+.second h2{
+    font-size: 50px;
+}
+.second p{
+    font-size: 18px;
+}
+.icon{
+margin-left: 30px;
+text-align: center;
+}
+.zin{
+    text-align: center;
+    margin-top: 50px;
+}
+.zin h1{
+    font-weight: bold;
+    font-size: 50px;
+    text-align: center;
+  
+    
+}
+.zin p{
+    margin-top: 20px;
+    font-size: 18px;
+    
+}
+.oxygen img{
+
+}
+#carbon{
+    margin-left:60px ;
+    padding: 20px;
+}
+.win h1{
+    text-align: center;
+    margin-top: 20px;
+}
+.pandas{
+    text-align: center;
+    margin-top: 20px;
+    cursor:pointer;
+}
+#ban{
+    width:1580px;
+}
